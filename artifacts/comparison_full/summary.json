@@ -1,0 +1,54 @@
+[
+  {
+    "model":"KTCoralsCLS-ConvNeXt",
+    "accuracy":0.8458137856,
+    "macro_f1":0.8408789876,
+    "weighted_f1":0.8462688154,
+    "min_class_f1":0.712195122,
+    "min_class_recall":0.6683168317,
+    "mean_class_recall":0.840588237,
+    "top_confusion":"Astreopora\u2192Montipora",
+    "top_confusion_count":56,
+    "worst_lookalike_pair":"Pavona \u2194 Montipora",
+    "worst_lookalike_swaps":95
+  },
+  {
+    "model":"KTCoralsCLS-ResNet50",
+    "accuracy":0.8208228077,
+    "macro_f1":0.8152404683,
+    "weighted_f1":0.8214972235,
+    "min_class_f1":0.6731707317,
+    "min_class_recall":0.6116504854,
+    "mean_class_recall":0.8184029116,
+    "top_confusion":"Astreopora\u2192Montipora",
+    "top_confusion_count":61,
+    "worst_lookalike_pair":"Montipora \u2194 Astreopora",
+    "worst_lookalike_swaps":101
+  },
+  {
+    "model":"KTCoralsCLS-EfficientNet",
+    "accuracy":0.8167629015,
+    "macro_f1":0.8105705819,
+    "weighted_f1":0.8175038143,
+    "min_class_f1":0.6666666667,
+    "min_class_recall":0.6168224299,
+    "mean_class_recall":0.8185936224,
+    "top_confusion":"Astreopora\u2192Montipora",
+    "top_confusion_count":67,
+    "worst_lookalike_pair":"Montipora \u2194 Astreopora",
+    "worst_lookalike_swaps":97
+  },
+  {
+    "model":"KTCoralsCLS-ViT",
+    "accuracy":0.6442619993,
+    "macro_f1":0.5996613804,
+    "weighted_f1":0.6486091407,
+    "min_class_f1":0.4074074074,
+    "min_class_recall":0.4205607477,
+    "mean_class_recall":0.6268187844,
+    "top_confusion":"Pocillopora\u2192Acropora",
+    "top_confusion_count":68,
+    "worst_lookalike_pair":"Montipora \u2194 Astreopora",
+    "worst_lookalike_swaps":126
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "selected_model": "KTCoralsCLS-ConvNeXt",
+  "ranking_rule": "Primary: maximize min_class_f1 (worst genus). Tie-break: minimize worst_lookalike_swaps (A\u2194B confusions). Then maximize macro_f1. Overall accuracy is reported but not used to pick.",
+  "models_evaluated": [
+    "KTCoralsCLS-ResNet50",
+    "KTCoralsCLS-EfficientNet",
+    "KTCoralsCLS-ConvNeXt",
+    "KTCoralsCLS-ViT"
+  ]
+}

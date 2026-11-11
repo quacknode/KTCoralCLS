@@ -1,0 +1,11 @@
+{
+  "model": "KTCoralsCLS-ConvNeXt",
+  "split": "test",
+  "n": 3511,
+  "accuracy": 0.7974935915693535,
+  "macro_f1": 0.7983243869444971,
+  "weighted_f1": 0.7980179048018009,
+  "min_class_f1": 0.5615763546798029,
+  "mean_class_recall": 0.7980891832241546,
+  "min_class_recall": 0.57
+}

@@ -1,0 +1,18 @@
+{
+  "stratified_random": {
+    "test_groups": 9550,
+    "overlapping_groups": 5206,
+    "pct_groups": 54.5130890052356,
+    "test_images": 11084,
+    "leaking_images": 6606,
+    "pct_images": 59.59942259112234
+  },
+  "group_held_out": {
+    "test_groups": 5981,
+    "overlapping_groups": 0,
+    "pct_groups": 0.0,
+    "test_images": 11506,
+    "leaking_images": 0,
+    "pct_images": 0.0
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "model": "KTCoralsCLS-ViT",
+  "split": "test",
+  "n": 11506,
+  "accuracy": 0.6058578133147923,
+  "macro_f1": 0.517929469402427,
+  "weighted_f1": 0.6115714777617833,
+  "min_class_f1": 0.25287356321839083,
+  "mean_class_recall": 0.5377848690851411,
+  "min_class_recall": 0.3058823529411765
+}

@@ -1,0 +1,5 @@
+model,accuracy,macro_f1,weighted_f1,min_class_f1,min_class_recall,mean_class_recall,top_confusion,top_confusion_count,worst_lookalike_pair,worst_lookalike_swaps
+KTCoralsCLS-ConvNeXt,0.7974935915693535,0.7983243869444971,0.7980179048018009,0.5615763546798029,0.57,0.7980891832241546,Podabacia→Turbinaria,13,Pavona ↔ Montipora,15
+KTCoralsCLS-ViT,0.7556251780119624,0.7572746476010463,0.7559840053546387,0.5023696682464455,0.53,0.7569498588053359,Danafungia→Lithophyllon,10,Danafungia ↔ Lithophyllon,20
+KTCoralsCLS-EfficientNet,0.7778410709199658,0.7779857969114143,0.7771926233564094,0.502283105022831,0.52,0.7797094822488418,Lithophyllon→Danafungia,18,Danafungia ↔ Lithophyllon,20
+KTCoralsCLS-ResNet50,0.7616063799487326,0.7648202152103241,0.7641066477307465,0.47843137254901963,0.52,0.7626250030897652,Lithophyllon→Danafungia,20,Danafungia ↔ Lithophyllon,27

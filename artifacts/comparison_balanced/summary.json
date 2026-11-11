@@ -1,0 +1,54 @@
+[
+  {
+    "model":"KTCoralsCLS-ConvNeXt",
+    "accuracy":0.7974935916,
+    "macro_f1":0.7983243869,
+    "weighted_f1":0.7980179048,
+    "min_class_f1":0.5615763547,
+    "min_class_recall":0.57,
+    "mean_class_recall":0.7980891832,
+    "top_confusion":"Podabacia\u2192Turbinaria",
+    "top_confusion_count":13,
+    "worst_lookalike_pair":"Pavona \u2194 Montipora",
+    "worst_lookalike_swaps":15
+  },
+  {
+    "model":"KTCoralsCLS-ViT",
+    "accuracy":0.755625178,
+    "macro_f1":0.7572746476,
+    "weighted_f1":0.7559840054,
+    "min_class_f1":0.5023696682,
+    "min_class_recall":0.53,
+    "mean_class_recall":0.7569498588,
+    "top_confusion":"Danafungia\u2192Lithophyllon",
+    "top_confusion_count":10,
+    "worst_lookalike_pair":"Danafungia \u2194 Lithophyllon",
+    "worst_lookalike_swaps":20
+  },
+  {
+    "model":"KTCoralsCLS-EfficientNet",
+    "accuracy":0.7778410709,
+    "macro_f1":0.7779857969,
+    "weighted_f1":0.7771926234,
+    "min_class_f1":0.502283105,
+    "min_class_recall":0.52,
+    "mean_class_recall":0.7797094822,
+    "top_confusion":"Lithophyllon\u2192Danafungia",
+    "top_confusion_count":18,
+    "worst_lookalike_pair":"Danafungia \u2194 Lithophyllon",
+    "worst_lookalike_swaps":20
+  },
+  {
+    "model":"KTCoralsCLS-ResNet50",
+    "accuracy":0.7616063799,
+    "macro_f1":0.7648202152,
+    "weighted_f1":0.7641066477,
+    "min_class_f1":0.4784313725,
+    "min_class_recall":0.52,
+    "mean_class_recall":0.7626250031,
+    "top_confusion":"Lithophyllon\u2192Danafungia",
+    "top_confusion_count":20,
+    "worst_lookalike_pair":"Danafungia \u2194 Lithophyllon",
+    "worst_lookalike_swaps":27
+  }
+]

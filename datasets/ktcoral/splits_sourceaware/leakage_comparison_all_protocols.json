@@ -1,0 +1,50 @@
+{
+  "full_stratified": {
+    "n_groups_train": 51321,
+    "n_groups_val": 9552,
+    "n_groups_test": 9550,
+    "genera_train_val_test": [
+      36,
+      36,
+      36
+    ],
+    "test_groups": 9550,
+    "overlapping_groups": 5206,
+    "pct_groups": 54.5130890052356,
+    "test_images": 11084,
+    "leaking_images": 6606,
+    "pct_images": 59.59942259112234
+  },
+  "balanced_stratified": {
+    "n_groups_train": 19356,
+    "n_groups_val": 3247,
+    "n_groups_test": 3262,
+    "genera_train_val_test": [
+      36,
+      36,
+      36
+    ],
+    "test_groups": 3262,
+    "overlapping_groups": 1555,
+    "pct_groups": 47.6701410177805,
+    "test_images": 3511,
+    "leaking_images": 1747,
+    "pct_images": 49.75790373113073
+  },
+  "full_group_held_out": {
+    "n_groups_train": 47844,
+    "n_groups_val": 5981,
+    "n_groups_test": 5981,
+    "genera_train_val_test": [
+      36,
+      36,
+      36
+    ],
+    "test_groups": 5981,
+    "overlapping_groups": 0,
+    "pct_groups": 0.0,
+    "test_images": 11506,
+    "leaking_images": 0,
+    "pct_images": 0.0
+  }
+}

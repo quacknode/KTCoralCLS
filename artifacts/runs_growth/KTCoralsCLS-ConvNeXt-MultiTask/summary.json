@@ -1,0 +1,26 @@
+[
+  {
+    "model":"KTCoralsCLS-ConvNeXt-MultiTask",
+    "task":"genus",
+    "split":"test",
+    "n":11084,
+    "accuracy":0.8314687838,
+    "macro_f1":0.8248093929,
+    "weighted_f1":0.8317366955,
+    "min_class_f1":0.7113543092,
+    "min_class_recall":0.6435643564,
+    "mean_class_recall":0.828855664
+  },
+  {
+    "model":"KTCoralsCLS-ConvNeXt-MultiTask",
+    "task":"growth",
+    "split":"test",
+    "n":1681,
+    "accuracy":0.8096371208,
+    "macro_f1":0.5821673877,
+    "weighted_f1":0.8061380363,
+    "min_class_f1":0.0,
+    "min_class_recall":0.0,
+    "mean_class_recall":0.4641029064
+  }
+]

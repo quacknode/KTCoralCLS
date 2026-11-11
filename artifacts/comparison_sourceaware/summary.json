@@ -1,0 +1,54 @@
+[
+  {
+    "model":"KTCoralsCLS-ConvNeXt",
+    "accuracy":0.8193985747,
+    "macro_f1":0.7964352594,
+    "weighted_f1":0.8197935803,
+    "min_class_f1":0.625,
+    "min_class_recall":0.5806451613,
+    "mean_class_recall":0.7898233223,
+    "top_confusion":"Pavona\u2192Porites",
+    "top_confusion_count":101,
+    "worst_lookalike_pair":"Pavona \u2194 Porites",
+    "worst_lookalike_swaps":147
+  },
+  {
+    "model":"KTCoralsCLS-EfficientNet",
+    "accuracy":0.8022770728,
+    "macro_f1":0.7765211093,
+    "weighted_f1":0.8028971951,
+    "min_class_f1":0.6096256684,
+    "min_class_recall":0.587628866,
+    "mean_class_recall":0.7785998189,
+    "top_confusion":"Pavona\u2192Porites",
+    "top_confusion_count":89,
+    "worst_lookalike_pair":"Pavona \u2194 Porites",
+    "worst_lookalike_swaps":133
+  },
+  {
+    "model":"KTCoralsCLS-ResNet50",
+    "accuracy":0.7998435599,
+    "macro_f1":0.7615947751,
+    "weighted_f1":0.800215492,
+    "min_class_f1":0.5611510791,
+    "min_class_recall":0.4193548387,
+    "mean_class_recall":0.7611872677,
+    "top_confusion":"Pavona\u2192Porites",
+    "top_confusion_count":70,
+    "worst_lookalike_pair":"Pavona \u2194 Porites",
+    "worst_lookalike_swaps":125
+  },
+  {
+    "model":"KTCoralsCLS-ViT",
+    "accuracy":0.6058578133,
+    "macro_f1":0.5179294694,
+    "weighted_f1":0.6115714778,
+    "min_class_f1":0.2528735632,
+    "min_class_recall":0.3058823529,
+    "mean_class_recall":0.5377848691,
+    "top_confusion":"Pavona\u2192Porites",
+    "top_confusion_count":88,
+    "worst_lookalike_pair":"Pavona \u2194 Porites",
+    "worst_lookalike_swaps":144
+  }
+]

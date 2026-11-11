@@ -1,0 +1,11 @@
+{
+  "model": "KTCoralsCLS-ResNet50",
+  "split": "test",
+  "n": 3511,
+  "accuracy": 0.7616063799487326,
+  "macro_f1": 0.7648202152103241,
+  "weighted_f1": 0.7641066477307465,
+  "min_class_f1": 0.47843137254901963,
+  "mean_class_recall": 0.7626250030897652,
+  "min_class_recall": 0.52
+}

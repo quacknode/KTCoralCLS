@@ -1,0 +1,12 @@
+torch
+torchvision
+pandas
+numpy
+scikit-learn
+matplotlib
+pillow
+tqdm
+beautifulsoup4
+requests
+openpyxl
+python-dotenv

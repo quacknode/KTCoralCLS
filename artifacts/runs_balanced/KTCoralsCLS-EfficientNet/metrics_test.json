@@ -1,0 +1,11 @@
+{
+  "model": "KTCoralsCLS-EfficientNet",
+  "split": "test",
+  "n": 3511,
+  "accuracy": 0.7778410709199658,
+  "macro_f1": 0.7779857969114143,
+  "weighted_f1": 0.7771926233564094,
+  "min_class_f1": 0.502283105022831,
+  "mean_class_recall": 0.7797094822488418,
+  "min_class_recall": 0.52
+}
