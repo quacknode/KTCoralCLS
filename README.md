@@ -101,3 +101,41 @@ Precomputed summaries for the paper runs are already under `artifacts/`.
 ## Citation
 
 If you use this dataset or code, please cite the KTCoralCLS paper (title: *KTCoralCLS: A Localised Benchmark for Coral Genus Classification on Koh Tao*).
+
+## Genera
+- Acropora
+- Pocillopora
+- Duncanopsammia
+- Diploastrea
+- Lobophyllia
+- Goniopora
+- Hydnophora
+- Pavona
+- Pectinia
+- Merulina
+- Pachyseris
+- Gardineroseris
+- Galaxea
+- Porites
+- Montipora
+- Stylocoeniella
+- Fimbriaphyllia
+- Plerogyra
+- Astreopora
+- Turbinaria
+- Caulastrea
+- Dipsastraea
+- Plesiastrea
+- Cyphastrea
+- Echinopora
+- Oxypora
+- Fungia
+- Danafungia
+- Pleuractis
+- Ctenactis
+- Herpolitha
+- Polyphyllia
+- Cycloseris
+- Lithophyllon
+- Podabacia
+- Sandalolitha
